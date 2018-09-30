@@ -25,6 +25,15 @@ pre, code, pre code {
     color: #337ab7;
 }
 
+.section {
+    color: #337ab7;
+}
+
+.contact {
+    border-collapse: separate;
+    border-spacing: 25px;
+}
+
 .active {
     font-weight: bold;
 }
