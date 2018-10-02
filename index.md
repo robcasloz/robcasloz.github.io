@@ -8,7 +8,7 @@ title: "About me"
 
 I am a researcher at the [Computer Systems
 Laboratory](http://www.sics.se/groups/computer-systems-laboratory-csl), [RISE
-RICS](http://www.sics.se/) (Swedish Institute of Computer Science).
+SICS](http://www.sics.se/) (Swedish Institute of Computer Science).
 
 I am interested in programming languages and combinatorial optimization. During
 my doctoral education at [KTH Royal Institute of
@@ -23,5 +23,5 @@ tool](https://github.com/unison-code/unison), and [industrial
 value](https://www.ericsson.com/research-blog/outperforming-state-art-compilers-unison/).
 
 Other areas of interest are software testing and verification. I am always open
-to broaden the scope of my research, so do not hesitate [contacting
+to broaden the scope of my research, so do not hesitate to [contact
 me](/contact.html) with exciting research ideas!
