@@ -40,4 +40,5 @@ redcarpet:
         'hardwrap'
     ]
 
-rcas-root: https://www.sics.se/%7ercas/
+plugins:
+  - jekyll-sitemap
