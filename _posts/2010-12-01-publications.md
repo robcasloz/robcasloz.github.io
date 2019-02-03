@@ -7,7 +7,7 @@ title: "Publications"
 
 - [*Survey on Combinatorial Register Allocation and Instruction Scheduling*](/publications/CastanedaCarlssonEa_CSUR_2018.pdf).<br />
   Roberto Castañeda Lozano, Christian Schulte.<br />
-  To appear in ACM Computing Surveys, 2018.
+  To appear in ACM Computing Surveys.
 
 - [*Complete and Practical Universal Instruction Selection*](/publications/HjortCarlssonEa_TECS_2017.pdf).<br />
   Gabriel Hjort Blindell, Mats Carlsson, Roberto Castañeda Lozano, Christian Schulte.<br />
