@@ -6,9 +6,11 @@ title: "Activities"
 #### Journal, Conference and Workshop Involvement
 
 - Program Committee member at
-            [CP2018](http://cp2018.a4cp.org/)
+            [IJCAI2019](https://ijcai19.org/),
+            [CP2019](http://cp2019.a4cp.org/),
+            [CP2018](http://cp2018.a4cp.org/),
             and
-            [CP2017](http://cp2017.a4cp.org/) (Testing and Verification track).
+            [CP2017](http://cp2017.a4cp.org/).
 
 - Artifact Evaluation Committee member at
             [LCTES2018](https://conf.researchr.org/home/LCTES-2018).
