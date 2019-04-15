@@ -13,6 +13,7 @@ title: "Activities"
             [CP2017](http://cp2017.a4cp.org/).
 
 - Artifact Evaluation Committee member at
+            [LCTES2019](https://conf.researchr.org/home/LCTES-2019) and
             [LCTES2018](https://conf.researchr.org/home/LCTES-2018).
 
 - Reviewer at
