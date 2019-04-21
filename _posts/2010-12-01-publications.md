@@ -5,7 +5,11 @@ title: "Publications"
 
 #### Journal Articles
 
-- [*Survey on Combinatorial Register Allocation and Instruction Scheduling*](/publications/CastanedaCarlssonEa_CSUR_2018.pdf).<br />
+- [*Combinatorial Register Allocation and Instruction Scheduling*](https://arxiv.org/pdf/1804.02452).<br />
+  Roberto Castañeda Lozano, Mats Carlsson, Gabriel Hjort Blindell, Christian Schulte.<br />
+  To appear in ACM Transactions on Programming Languages and Systems.
+
+- [*Survey on Combinatorial Register Allocation and Instruction Scheduling*](https://arxiv.org/pdf/1409.7628).<br />
   Roberto Castañeda Lozano, Christian Schulte.<br />
   To appear in ACM Computing Surveys.
 
@@ -59,13 +63,3 @@ title: "Publications"
   Roberto Castañeda Lozano.<br />
   KTH Royal Institute of Technology, Sweden, Master thesis, TRITA-ICT-EX-2010:69, 2010.<br />
   Winner of the Swedish AI Society's prize for the best AI Master's Thesis 2010.
-
-#### Technical Reports
-
-- [*Combinatorial Register Allocation and Instruction Scheduling*](https://arxiv.org/pdf/1804.02452).<br />
-  Roberto Castañeda Lozano, Mats Carlsson, Gabriel Hjort Blindell, Christian Schulte.<br />
-  Archived at <a href="https://arxiv.org/abs/1804.02452">arXiv:1804.02452 [cs.PL]</a>, 2018.
-
-- [*Survey on Combinatorial Register Allocation and Instruction Scheduling*](http://arxiv.org/pdf/1409.7628v1).<br />
-  Roberto Castañeda Lozano, Christian Schulte.<br />
-  Archived at <a href="http://arxiv.org/abs/1409.7628">arXiv:1409.7628 [cs.PL]</a>, 2014.
