@@ -7,11 +7,11 @@ title: "Publications"
 
 - [*Combinatorial Register Allocation and Instruction Scheduling*](https://arxiv.org/pdf/1804.02452).<br />
   Roberto Castañeda Lozano, Mats Carlsson, Gabriel Hjort Blindell, Christian Schulte.<br />
-  To appear in ACM Transactions on Programming Languages and Systems.
+  ACM Transactions on Programming Languages and Systems, 2019.
 
 - [*Survey on Combinatorial Register Allocation and Instruction Scheduling*](https://arxiv.org/pdf/1409.7628).<br />
   Roberto Castañeda Lozano, Christian Schulte.<br />
-  To appear in ACM Computing Surveys.
+  ACM Computing Surveys, 2019.
 
 - [*Complete and Practical Universal Instruction Selection*](/publications/HjortCarlssonEa_TECS_2017.pdf).<br />
   Gabriel Hjort Blindell, Mats Carlsson, Roberto Castañeda Lozano, Christian Schulte.<br />
