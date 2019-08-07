@@ -53,7 +53,8 @@ title: "Publications"
 
 - [*Constraint-Based Register Allocation and Instruction Scheduling*](/publications/TRITA-EECS-AVL-2018-48.pdf).<br />
   Roberto Castañeda Lozano.<br />
-  KTH Royal Institute of Technology, Sweden, Doctoral thesis, TRITA-EECS-AVL-2018:48, SICS Dissertation Series 78, 2018.
+  KTH Royal Institute of Technology, Sweden, Doctoral thesis, TRITA-EECS-AVL-2018:48, SICS Dissertation Series 78, 2018.<br />
+  Honorable Mention at the ACP Doctoral Research Award, 2019.
 
 - [*Integrated Register Allocation and Instruction Scheduling with Constraint Programming*](/publications/TRITA-ICT-ECS-AVH-14-13.pdf).<br />
   Roberto Castañeda Lozano.<br />
@@ -62,4 +63,4 @@ title: "Publications"
 - [*Constraint Programming for Random Testing of a Trading System*](/publications/TRITA-ICT-EX-2010:69.pdf).<br />
   Roberto Castañeda Lozano.<br />
   KTH Royal Institute of Technology, Sweden, Master thesis, TRITA-ICT-EX-2010:69, 2010.<br />
-  Winner of the Swedish AI Society's prize for the best AI Master's Thesis 2010.
+  Winner of the Swedish AI Society's prize for the best AI Master's Thesis, 2010.
