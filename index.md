@@ -27,5 +27,5 @@ and a Honorable Mention at the
 [2019 ACP Doctoral Research Award](https://www.a4cp.org/awards/doctoral-research-award).
 
 Other areas of interest are software testing and verification. I am always open
-to broaden the scope of my research, so do not hesitate to [contact
-me](/contact.html) with exciting research ideas!
+to broadening the scope of my research, so do not hesitate to
+[contact me](/contact.html) with exciting research ideas!
