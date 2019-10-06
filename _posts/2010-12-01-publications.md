@@ -41,6 +41,10 @@ title: "Publications"
 
 #### Workshop Articles
 
+- [*"It Looks Like You're Writing a Parallel Loop": A Machine Learning Based Parallelization Assistant*](/publications/MaramzinVasiladiotisEa_AISEPS_2019.pdf).<br />
+  Aleksandr Maramzin, Christos Vasiladiotis, Roberto Castañeda Lozano, Murray Cole, Björn Franke.<br />
+  Sixth ACM SIGPLAN International Workshop on AI-Inspired and Empirical Methods for Software Engineering on Parallel Computing Systems, 2019.
+
 - [*Optimal General Offset Assignment*](/publications/MallachCastaneda_SCOPES_2014.pdf).<br />
   Sven Mallach, Roberto Castañeda Lozano.<br />
   Seventeenth International Workshop on Software and Compilers for Embedded Systems, 2014.
