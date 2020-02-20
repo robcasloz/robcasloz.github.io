@@ -6,6 +6,7 @@ title: "Activities"
 #### Journal, Conference and Workshop Involvement
 
 - Program Committee member at
+            [IJCAI2020](https://ijcai20.org/),
             [IJCAI2019](https://ijcai19.org/),
             [CP2019](http://cp2019.a4cp.org/),
             [CP2018](http://cp2018.a4cp.org/),
@@ -18,6 +19,8 @@ title: "Activities"
 
 - Reviewer at
             [AIJ](http://aij.ijcai.org/),
+            [SPE](https://onlinelibrary.wiley.com/journal/1097024x),
+            [IJPP](https://link.springer.com/journal/10766),
             [ICPP2019](https://www.hpcs.cs.tsukuba.ac.jp/icpp2019/),
             [CPAIOR2017](http://cpaior2017.dei.unipd.it/),
             [LCTES2016](http://conf.researchr.org/home/LCTES-2016),
