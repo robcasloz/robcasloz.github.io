@@ -19,6 +19,10 @@ title: "Publications"
 
 #### Conference Articles
 
+- [*A Hybrid Approach to Parallel Pattern Discovery in C++*](/publications/BrownJanjicEa_PDP_2020.pdf).<br />
+  Chris Brown, Vladimir Janjic, Adam Barwell, John Thomson, Roberto Castañeda Lozano, Murray Cole, Björn Franke, José Daniel García Sánchez, David del Río Astorga, Kenneth MacKenzie.<br />
+  28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing, 2020.
+
 - [*Register Allocation and Instruction Scheduling in Unison*](/publications/CastanedaCarlssonEa_CC_2016.pdf).<br />
   Roberto Castañeda Lozano, Mats Carlsson, Gabriel Hjort Blindell, Christian Schulte.<br />
   Twenty-Fifth International Conference on Compiler Construction, 2016.
