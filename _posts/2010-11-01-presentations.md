@@ -3,6 +3,9 @@ layout: page
 title: "Presentations"
 ---
 
+- [*A Hybrid Approach to Parallel Pattern Discovery in C++*](/presentations/pdp2020.pdf).<br />
+  28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing, V&auml;ster&aring;s, Sweden, March 2020.
+
 - [*Constraint-Based Register Allocation and Instruction Scheduling*](/presentations/phd2018.pdf).<br />
   Doctoral defense, KTH Royal Institute of Technology, Stockholm, Sweden, September 2018.
 
