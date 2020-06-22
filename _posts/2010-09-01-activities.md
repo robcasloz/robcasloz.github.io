@@ -8,10 +8,12 @@ title: "Activities"
 - Program Committee member at
             [IJCAI2020](https://ijcai20.org/),
             [IJCAI2019](https://ijcai19.org/),
+            [CP2020](http://cp2020.a4cp.org/),
             [CP2019](http://cp2019.a4cp.org/),
             [CP2018](http://cp2018.a4cp.org/),
+            [CP2017](http://cp2017.a4cp.org/),
             and
-            [CP2017](http://cp2017.a4cp.org/).
+            [CADO2020](http://conf.cisedu.info/rp/hpcs20/2-conference/special-sessions/session04-cado).
 
 - Artifact Evaluation Committee member at
             [LCTES2019](https://conf.researchr.org/home/LCTES-2019) and
@@ -35,6 +37,9 @@ title: "Activities"
             [CP2013](http://cp2013.a4cp.org/).
 
 #### Events
+
+- 2020:
+            [PDP 2020](http://www.pdp2020.com/).
 
 - 2018:
             Ericsson's Program Analysis Workshop,
