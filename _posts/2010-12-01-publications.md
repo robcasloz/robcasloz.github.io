@@ -19,6 +19,10 @@ title: "Publications"
 
 #### Conference Articles
 
+- [*Constraint-Based Software Diversification for Efficient Mitigation of Code-Reuse Attacks*](/publications/TsoupidiCastanedaEa_CP_2020.pdf).<br />
+  Rodothea Myrsini Tsoupidi, Roberto Castañeda Lozano, Benoit Baudry.<br />
+  Twenty-Sixth International Conference on Principles and Practice of Constraint Programming, 2020.
+
 - [*A Hybrid Approach to Parallel Pattern Discovery in C++*](/publications/BrownJanjicEa_PDP_2020.pdf).<br />
   Chris Brown, Vladimir Janjic, Adam Barwell, John Thomson, Roberto Castañeda Lozano, Murray Cole, Björn Franke, José Daniel García Sánchez, David del Río Astorga, Kenneth MacKenzie.<br />
   28th Euromicro International Conference on Parallel, Distributed, and Network-Based Processing, 2020.
