@@ -21,7 +21,8 @@ title: "Publications"
 
 - [*Constraint-Based Software Diversification for Efficient Mitigation of Code-Reuse Attacks*](/publications/TsoupidiCastanedaEa_CP_2020.pdf).<br />
   Rodothea Myrsini Tsoupidi, Roberto Castañeda Lozano, Benoit Baudry.<br />
-  Twenty-Sixth International Conference on Principles and Practice of Constraint Programming, 2020.
+  Twenty-Sixth International Conference on Principles and Practice of Constraint Programming, 2020.<br />
+  **Best Paper Award for the Application Track**.
 
 - [*A Hybrid Approach to Parallel Pattern Discovery in C++*](/publications/BrownJanjicEa_PDP_2020.pdf).<br />
   Chris Brown, Vladimir Janjic, Adam Barwell, John Thomson, Roberto Castañeda Lozano, Murray Cole, Björn Franke, José Daniel García Sánchez, David del Río Astorga, Kenneth MacKenzie.<br />
@@ -66,7 +67,7 @@ title: "Publications"
 - [*Constraint-Based Register Allocation and Instruction Scheduling*](/publications/TRITA-EECS-AVL-2018-48.pdf).<br />
   Roberto Castañeda Lozano.<br />
   KTH Royal Institute of Technology, Sweden, Doctoral thesis, TRITA-EECS-AVL-2018:48, SICS Dissertation Series 78, 2018.<br />
-  Honorable Mention at the ACP Doctoral Research Award, 2019.
+  **Honorable Mention at the ACP Doctoral Research Award, 2019**.
 
 - [*Integrated Register Allocation and Instruction Scheduling with Constraint Programming*](/publications/TRITA-ICT-ECS-AVH-14-13.pdf).<br />
   Roberto Castañeda Lozano.<br />
@@ -75,4 +76,4 @@ title: "Publications"
 - [*Constraint Programming for Random Testing of a Trading System*](/publications/TRITA-ICT-EX-2010:69.pdf).<br />
   Roberto Castañeda Lozano.<br />
   KTH Royal Institute of Technology, Sweden, Master thesis, TRITA-ICT-EX-2010:69, 2010.<br />
-  Winner of the Swedish AI Society's prize for the best AI Master's Thesis, 2010.
+  **Winner of the Swedish AI Society's prize for the best AI Master's Thesis, 2010**.
