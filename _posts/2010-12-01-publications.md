@@ -19,6 +19,10 @@ title: "Publications"
 
 #### Conference Articles
 
+- [*Parallelizing Parallel Programs: A Dynamic Pattern Analysis for Modernization of Legacy Parallel Code*](/publications/CastanedaColeEa_PACT_2020.pdf).<br />
+  Castañeda Lozano, Murray Cole, Björn Franke.<br />
+  ACM International Conference on Parallel Architectures and Compilation Techniques, 2020.
+
 - [*Constraint-Based Software Diversification for Efficient Mitigation of Code-Reuse Attacks*](/publications/TsoupidiCastanedaEa_CP_2020.pdf).<br />
   Rodothea Myrsini Tsoupidi, Roberto Castañeda Lozano, Benoit Baudry.<br />
   Twenty-Sixth International Conference on Principles and Practice of Constraint Programming, 2020.<br />
