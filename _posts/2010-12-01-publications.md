@@ -19,6 +19,10 @@ title: "Publications"
 
 #### Conference Articles
 
+- [*Modernizing Parallel Code with Pattern Analysis*](/publications/CastanedaColeEa_PPoPP_2021.pdf). [[Supplement]](/publications/CastanedaColeEa_PPoPP_2021_supplement.pdf)<br />
+  Roberto Castañeda Lozano, Murray Cole, Björn Franke.<br />
+  26th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, 2021, accepted for publication.
+
 - [*Parallelizing Parallel Programs: A Dynamic Pattern Analysis for Modernization of Legacy Parallel Code*](/publications/CastanedaColeEa_PACT_2020.pdf).<br />
   Roberto Castañeda Lozano, Murray Cole, Björn Franke.<br />
   ACM International Conference on Parallel Architectures and Compilation Techniques, 2020.
