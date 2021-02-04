@@ -23,6 +23,10 @@ title: "Publications"
   Roberto Castañeda Lozano, Murray Cole, Björn Franke.<br />
   26th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, 2021, accepted for publication.
 
+- [*Loop Parallelization using Dynamic Commutativity Analysis*](/publications/VasiladiotisCastanedaEa_CGO_2021.pdf).<br />
+  Christos Vasiladiotis, Roberto Castañeda Lozano, Murray Cole, Björn Franke.<br />
+  International Symposium on Code Generation and Optimization, 2021, accepted for publication.
+
 - [*Parallelizing Parallel Programs: A Dynamic Pattern Analysis for Modernization of Legacy Parallel Code*](/publications/CastanedaColeEa_PACT_2020.pdf).<br />
   Roberto Castañeda Lozano, Murray Cole, Björn Franke.<br />
   ACM International Conference on Parallel Architectures and Compilation Techniques, 2020.
