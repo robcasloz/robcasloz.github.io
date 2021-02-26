@@ -21,11 +21,11 @@ title: "Publications"
 
 - [*Modernizing Parallel Code with Pattern Analysis*](/publications/CastanedaColeEa_PPoPP_2021.pdf). [[Supplement]](/publications/CastanedaColeEa_PPoPP_2021_supplement.pdf)<br />
   Roberto Castañeda Lozano, Murray Cole, Björn Franke.<br />
-  26th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, 2021, accepted for publication.
+  26th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, 2021.
 
 - [*Loop Parallelization using Dynamic Commutativity Analysis*](/publications/VasiladiotisCastanedaEa_CGO_2021.pdf).<br />
   Christos Vasiladiotis, Roberto Castañeda Lozano, Murray Cole, Björn Franke.<br />
-  International Symposium on Code Generation and Optimization, 2021, accepted for publication.
+  International Symposium on Code Generation and Optimization, 2021.
 
 - [*Parallelizing Parallel Programs: A Dynamic Pattern Analysis for Modernization of Legacy Parallel Code*](/publications/CastanedaColeEa_PACT_2020.pdf).<br />
   Roberto Castañeda Lozano, Murray Cole, Björn Franke.<br />
