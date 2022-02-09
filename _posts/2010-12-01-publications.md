@@ -5,6 +5,10 @@ title: "Publications"
 
 #### Journal Articles
 
+- [*Constraint-based Diversification of JOP Gadgets*](https://arxiv.org/pdf/2111.09934).<br />
+  Rodothea Myrsini Tsoupidi, Roberto Castañeda Lozano, Benoit Baudry.<br />
+  Journal of Artificial Intelligence Research, 2022.
+
 - [*Combinatorial Register Allocation and Instruction Scheduling*](https://arxiv.org/pdf/1804.02452).<br />
   Roberto Castañeda Lozano, Mats Carlsson, Gabriel Hjort Blindell, Christian Schulte.<br />
   ACM Transactions on Programming Languages and Systems, 2019.
