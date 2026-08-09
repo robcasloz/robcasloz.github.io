@@ -3,13 +3,13 @@ layout: page
 title: "Presentations"
 ---
 
-- *JIT Compiler From the Ground Up*<br />
+- *JIT Compiler From the Ground Up.*<br />
   Ask the Architect interview at the Inside Java Podcast, July 2026. [[YouTube]](https://youtu.be/ofPOBPa8500)
 
-- *Just-In-Time Compilation for Java Performance: Recent and Ongoing Improvements*<br />
+- *Just-In-Time Compilation for Java Performance: Recent and Ongoing Improvements.*<br />
   JavaOne, Redwood City, CA, United States, March 2026.
 
-- *Just-in-Time Compilation in the JVM*<br />
+- *Just-in-Time Compilation in the JVM.*<br />
   JForum, Stockholm, Sweden, September 2025.
 
 - [*A Hybrid Approach to Parallel Pattern Discovery in C++*](/presentations/pdp2020.pdf).<br />
