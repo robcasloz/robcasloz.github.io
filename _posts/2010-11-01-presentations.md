@@ -7,7 +7,7 @@ title: "Presentations"
   Ask the Architect interview at the Inside Java Podcast, July 2026. [[YouTube]](https://youtu.be/ofPOBPa8500)
 
 - *Just-In-Time Compilation for Java Performance: Recent and Ongoing Improvements.*<br />
-  JavaOne, Redwood City, CA, United States, March 2026.
+  JavaOne, Redwood City, CA, United States, March 2026. [[YouTube]](https://youtu.be/h45cGYc6xP8)
 
 - *Just-in-Time Compilation in the JVM.*<br />
   JForum, Stockholm, Sweden, September 2025.
